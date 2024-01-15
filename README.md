@@ -1,6 +1,6 @@
 # Pandas Challenge 1
 
-**Code Source**: https://github.com/oigwe-frx/pandas-challenge-1/blob/main/module_4_challenge.ipynb
+**Assignment**: https://github.com/oigwe-frx/pandas-challenge-1/blob/main/module_4_challenge.ipynb
 
 
 Original file is located at
