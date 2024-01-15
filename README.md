@@ -3,19 +3,19 @@
 **Assignment**: https://github.com/oigwe-frx/pandas-challenge-1/blob/main/module_4_challenge.ipynb
 
 
-Google Colab file is located at
-    https://colab.research.google.com/drive/1rjGMt__AJCXzFTBaKEFydwrds8wgAfk2
+Google Colab file:
+    [https://colab.research.google.com/drive/1rjGMt__AJCXzFTBaKEFydwrds8wgAfk2](https://colab.research.google.com/drive/1rjGMt__AJCXzFTBaKEFydwrds8wgAfk2?usp=sharing)
 
 
 ## **Context**
 
 ### Objective
 
-In this challenge, we'll dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Your mission will involve identifying top customers, popular product categories, calculating profits, and more. By the end of this task, you'll have a practical understanding of data exploration, transformation, and analysis, preparing you for more complex data scenarios in your future career.
+In this challenge, we'll dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Your mission will involve identifying top customers and popular product categories, calculating profits, and more. By the end of this task, you'll have a practical understanding of data exploration, transformation, and analysis, preparing you for more complex data scenarios in your future career.
 
 ### Data Description
 
-The data contains the different data related to a e-commerce platform order system. The detailed data dictionary is given below.
+The data contains different data related to an e-commerce platform's order system. The detailed data dictionary is given below.
 
 ### Data Dictionary
 
